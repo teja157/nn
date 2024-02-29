@@ -83,7 +83,6 @@ pyrsistent
 python-dateutil
 pytz
 pytz-deprecation-shim
-pywin32==none
 pywinpty
 PyYAML
 pyzmq
